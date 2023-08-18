@@ -1,2 +1,2 @@
 # CryptographicAlgos
-Python3 implementations of the Fast Exponential Algorithm &amp; Keyed Transposition Cipher
+Python3 implementations of the Fast Exponential Algorithm, Keyed Transposition Cipher, and more.
