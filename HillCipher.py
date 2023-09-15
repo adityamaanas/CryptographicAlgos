@@ -71,3 +71,5 @@ for i in ciphervector:
             cipher += key
 
 print(cipher)
+
+# key = GYBNQKURP
