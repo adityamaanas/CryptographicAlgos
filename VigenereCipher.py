@@ -32,5 +32,7 @@ def vigenere_cipher(msg, key):
     return encrypted_msg
 
 if __name__ == '__main__':
-    ans=vigenere_cipher("hai", "hello")
+    pt = input("Enter plain text: ")
+    key = input("Enter key: ")
+    ans=vigenere_cipher(pt,key)
     print(ans)
